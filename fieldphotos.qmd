@@ -1,0 +1,23 @@
+---
+title: "Field Photos"
+---
+
+In my free time I enjoy learning about photography and taking photos with my camera, which I try to bring with me everywhere I go -- especially out in the field! The following is a collection of photos that I've taken during recent field campaigns.
+
+## Teton Glacier - September, 2023
+
+![](www/teton1.JPG){fig-align="center" width="573"}
+
+![](www/teton2.JPG){fig-align="center" width="573"}
+
+![](www/teton3.JPG){fig-align="center" width="573"}
+
+![](www/teton4.JPG){fig-align="center" width="573"}
+
+## Big Bend, Rio Grande - Summer, 2021
+
+![](www/rio1.jpg){fig-align="center" width="573"}
+
+![](www/rio2.jpg){fig-align="center" width="573"}
+
+![](www/rio3.jpg){fig-align="center" width="573"}

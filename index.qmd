@@ -1,11 +1,27 @@
 ---
-title: "allydetre"
+title: "Ally Detre"
+image: "www/adprofile.jpg"
+about: 
+  template: solana
+  image-shape: rectangle
+  image-width: 20em
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/allydetre
+    - icon: envelope
+      text: Email
+      href: mailto:a.detre@colostate.edu
 ---
 
-This is a Quarto website.
+My name is Ally Detre (she/her) and I am a Master's student at Colorado State University in the department of Geosciences. I work with Dr. Daniel McGrath in the Cryospheric Sciences Research Group and my research focuses on evaluating changes in seasonal snowpack in the western United States by utilizing in-situ measurements and remote sensing methodologies. In my free time, I enjoy reading, skiing, running, photography, traveling, and listening to new music.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+**Colorado State University** - Fort Collins, Colorado
+
+-   MS candidate, Geosciences (expected 2025)
+
+**Wesleyan University** - Middletown, Connecticut
+
+-   BA, Earth & Environmental Sciences (honors), Environmental Studies (2022)

@@ -1,0 +1,37 @@
+---
+title: "Research"
+---
+
+## Current Research
+
+Snow serves as a vital hydrologic resource for both ecosystems and human populations throughout the western United States and in regions across the world. However, global remote sensing of snow water equivalent (SWE) and snow depth aboard spaceborne sensors remains a challenge due to the presence of liquid water content (LWC) within a melting snowpack.
+
+As a part of my MS research, I am examining the relationship between snow density, temperature, and soil moisture and evaluating whether that relationship can predict the first appearance of LWC in a snowpack by utilizing data from multiple SNOTEL stations located in northern Colorado and from in-situ measurements of snow depth, density, stratigraphy, and temperature.
+
+#### NASA SnowEx 2023: Alaska Campaign
+
+![Boreal Forest, snow.nasa.gov/snowex/campaigns](www/aksnowex.png){fig-align="center" width="473"}
+
+The NASA SnowEx campaign is a multi-year effort to improve our ability to measure snow from space. Over one billion people in regions across the world primarily rely on snowmelt from mountain snowpack reservoirs for freshwater resources. The objectives of the SnowEx 2023 Alaska campaign were to utilize ground penetrating radar (GPR) measurements to evaluate airborne/satellite retrievals of SWE and to determine how accurate GPR retrievals of snow depth and/or SWE are in the Boreal Forest.
+
+I am currently working with Dr. Daniel McGrath and fellow CSU Cryospheric Sciences Research Group PhD student Randall Bonnell on processing and synthesizing \~15 km of GPR surveys from this campaign. Next steps include a data publication in January 2024 of the processed GPR surveys and continued collaboration with NASA SnowEx scientists to evaluate the variability of snow depth and SWE in the Boreal Forest and North Slope Alaska.
+
+For more information on NASA SnowEx campaigns, click [here](https://snow.nasa.gov/campaigns/snowex).
+
+## Current Field Campaigns
+
+-   Winter 2023-Spring 2024: Cameron Pass, Colorado
+
+    -   Repeated snow depth transects and snow stratigraphy profiles in burned and unburned areas of Cameron Pass
+
+![](www/cp1.jpg){fig-align="center" width="473"}
+
+## Past Field Campaigns
+
+-   September, 2023: Teton Glacier in Grand Teton National Park, Wyoming
+
+    -   Fall GPR and albedo survey of Teton Glacier
+
+![GPR sled with Teton Glacier in the background](www/gpr.JPG){fig-align="center" width="473"}
+
+![Measuring surface albedo of Teton Glacier. Pictured: Ash Khatiwada (CSU), Lucas Zeller (CSU), Millie Spencer (CU Boulder)](www/albedo.JPG){fig-align="center" width="473"}

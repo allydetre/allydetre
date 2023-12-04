@@ -1,0 +1,50 @@
+---
+layout: page
+title: "Curriculum vitae"
+excerpt: Current CV
+execute:
+  freeze: false
+engine: knitr 
+resources:
+  - "Detre_CV_Updated.pdf"
+cv:
+  pdf: "Detre_CV_Updated.pdf"
+---
+
+## Abbreviated Curriculum Vitae
+
+#### Education
+
+-   MS: Colorado State University (expected 2025)
+
+-   BA: Wesleyan University (2022)
+
+#### Research Experience
+
+-   **Research Assistant (MS)**: Colorado State University (August 2023-Present)
+
+#### Teaching Experience
+
+-   **Graduate Teaching Assistant**: Colorado State University (August 2023-Present)
+
+#### Applicable Skills
+
+-   **QGIS** and **ArcGIS Pro** experience
+
+-   **R** analysis and data visualization
+
+-   Satellite remote sensing analysis using **ENVI**
+
+-   **Google Earth Engine**
+
+-   **Python** programming, including arcpy scripting
+
+-   GPR processing using **ReflexW**
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Full CV
+  </a>
+</p>
+```

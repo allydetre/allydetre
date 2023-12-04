@@ -1,16 +1,86 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Feel free to contact me at:\n\na.detre@colostate.edu\nwww.linkedin.com/in/allydetre"
+  },
+  {
+    "objectID": "cv/cv.html",
+    "href": "cv/cv.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "MS: Colorado State University (expected 2025)\nBA: Wesleyan University (2022)\n\n\n\n\n\nResearch Assistant (MS): Colorado State University (August 2023-Present)\n\n\n\n\n\nGraduate Teaching Assistant: Colorado State University (August 2023-Present)\n\n\n\n\n\nQGIS and ArcGIS Pro experience\nR analysis and data visualization\nSatellite remote sensing analysis using ENVI\nGoogle Earth Engine\nPython programming, including arcpy scripting\nGPR processing using ReflexW\n\n\n  \n     Download Full CV"
+  },
+  {
+    "objectID": "cv/cv.html#abbreviated-curriculum-vitae",
+    "href": "cv/cv.html#abbreviated-curriculum-vitae",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "MS: Colorado State University (expected 2025)\nBA: Wesleyan University (2022)\n\n\n\n\n\nResearch Assistant (MS): Colorado State University (August 2023-Present)\n\n\n\n\n\nGraduate Teaching Assistant: Colorado State University (August 2023-Present)\n\n\n\n\n\nQGIS and ArcGIS Pro experience\nR analysis and data visualization\nSatellite remote sensing analysis using ENVI\nGoogle Earth Engine\nPython programming, including arcpy scripting\nGPR processing using ReflexW\n\n\n  \n     Download Full CV"
+  },
+  {
+    "objectID": "fieldphotos.html",
+    "href": "fieldphotos.html",
+    "title": "Field Photos",
+    "section": "",
+    "text": "In my free time I enjoy learning about photography and taking photos with my camera, which I try to bring with me everywhere I go – especially out in the field! The following is a collection of photos that I’ve taken during recent field campaigns."
+  },
+  {
+    "objectID": "fieldphotos.html#teton-glacier---september-2023",
+    "href": "fieldphotos.html#teton-glacier---september-2023",
+    "title": "Field Photos",
+    "section": "Teton Glacier - September, 2023",
+    "text": "Teton Glacier - September, 2023"
+  },
+  {
+    "objectID": "fieldphotos.html#big-bend-rio-grande---summer-2021",
+    "href": "fieldphotos.html#big-bend-rio-grande---summer-2021",
+    "title": "Field Photos",
+    "section": "Big Bend, Rio Grande - Summer, 2021",
+    "text": "Big Bend, Rio Grande - Summer, 2021"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "allydetre",
+    "title": "Ally Detre",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Ally Detre (she/her) and I am a Master’s student at Colorado State University in the department of Geosciences. I work with Dr. Daniel McGrath in the Cryospheric Sciences Research Group and my research focuses on evaluating changes in seasonal snowpack in the western United States by utilizing in-situ measurements and remote sensing methodologies. In my free time, I enjoy reading, skiing, running, photography, traveling, and listening to new music."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ally Detre",
+    "section": "Education",
+    "text": "Education\nColorado State University - Fort Collins, Colorado\n\nMS candidate, Geosciences (expected 2025)\n\nWesleyan University - Middletown, Connecticut\n\nBA, Earth & Environmental Sciences (honors), Environmental Studies (2022)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Snow serves as a vital hydrologic resource for both ecosystems and human populations throughout the western United States and in regions across the world. However, global remote sensing of snow water equivalent (SWE) and snow depth aboard spaceborne sensors remains a challenge due to the presence of liquid water content (LWC) within a melting snowpack.\nAs a part of my MS research, I am examining the relationship between snow density, temperature, and soil moisture and evaluating whether that relationship can predict the first appearance of LWC in a snowpack by utilizing data from multiple SNOTEL stations located in northern Colorado and from in-situ measurements of snow depth, density, stratigraphy, and temperature.\n\n\n\n\n\nBoreal Forest, snow.nasa.gov/snowex/campaigns\n\n\nThe NASA SnowEx campaign is a multi-year effort to improve our ability to measure snow from space. Over one billion people in regions across the world primarily rely on snowmelt from mountain snowpack reservoirs for freshwater resources. The objectives of the SnowEx 2023 Alaska campaign were to utilize ground penetrating radar (GPR) measurements to evaluate airborne/satellite retrievals of SWE and to determine how accurate GPR retrievals of snow depth and/or SWE are in the Boreal Forest.\nI am currently working with Dr. Daniel McGrath and fellow CSU Cryospheric Sciences Research Group PhD student Randall Bonnell on processing and synthesizing ~15 km of GPR surveys from this campaign. Next steps include a data publication in January 2024 of the processed GPR surveys and continued collaboration with NASA SnowEx scientists to evaluate the variability of snow depth and SWE in the Boreal Forest and North Slope Alaska.\nFor more information on NASA SnowEx campaigns, click here."
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "Research",
+    "section": "",
+    "text": "Snow serves as a vital hydrologic resource for both ecosystems and human populations throughout the western United States and in regions across the world. However, global remote sensing of snow water equivalent (SWE) and snow depth aboard spaceborne sensors remains a challenge due to the presence of liquid water content (LWC) within a melting snowpack.\nAs a part of my MS research, I am examining the relationship between snow density, temperature, and soil moisture and evaluating whether that relationship can predict the first appearance of LWC in a snowpack by utilizing data from multiple SNOTEL stations located in northern Colorado and from in-situ measurements of snow depth, density, stratigraphy, and temperature.\n\n\n\n\n\nBoreal Forest, snow.nasa.gov/snowex/campaigns\n\n\nThe NASA SnowEx campaign is a multi-year effort to improve our ability to measure snow from space. Over one billion people in regions across the world primarily rely on snowmelt from mountain snowpack reservoirs for freshwater resources. The objectives of the SnowEx 2023 Alaska campaign were to utilize ground penetrating radar (GPR) measurements to evaluate airborne/satellite retrievals of SWE and to determine how accurate GPR retrievals of snow depth and/or SWE are in the Boreal Forest.\nI am currently working with Dr. Daniel McGrath and fellow CSU Cryospheric Sciences Research Group PhD student Randall Bonnell on processing and synthesizing ~15 km of GPR surveys from this campaign. Next steps include a data publication in January 2024 of the processed GPR surveys and continued collaboration with NASA SnowEx scientists to evaluate the variability of snow depth and SWE in the Boreal Forest and North Slope Alaska.\nFor more information on NASA SnowEx campaigns, click here."
+  },
+  {
+    "objectID": "research.html#current-field-campaigns",
+    "href": "research.html#current-field-campaigns",
+    "title": "Research",
+    "section": "Current Field Campaigns",
+    "text": "Current Field Campaigns\n\nWinter 2023-Spring 2024: Cameron Pass, Colorado\n\nRepeated snow depth transects and snow stratigraphy profiles in burned and unburned areas of Cameron Pass"
+  },
+  {
+    "objectID": "research.html#past-field-campaigns",
+    "href": "research.html#past-field-campaigns",
+    "title": "Research",
+    "section": "Past Field Campaigns",
+    "text": "Past Field Campaigns\n\nSeptember, 2023: Teton Glacier in Grand Teton National Park, Wyoming\n\nFall GPR and albedo survey of Teton Glacier\n\n\n\n\n\nGPR sled with Teton Glacier in the background\n\n\n\n\n\nMeasuring surface albedo of Teton Glacier. Pictured: Ash Khatiwada (CSU), Lucas Zeller (CSU), Millie Spencer (CU Boulder)"
   }
 ]

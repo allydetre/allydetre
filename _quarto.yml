@@ -3,16 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "allydetre"
+  title: "Ally Detre"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: cv/cv.qmd
+        text: CV
+      - href: fieldphotos.qmd
+        text: Field Photos
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
